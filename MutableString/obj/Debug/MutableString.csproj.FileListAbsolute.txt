@@ -1,0 +1,6 @@
+c:\users\fountain\documents\DEV\visual.studios\MutableString\MutableString\bin\Debug\MutableString.exe.config
+c:\users\fountain\documents\DEV\visual.studios\MutableString\MutableString\bin\Debug\MutableString.exe
+c:\users\fountain\documents\DEV\visual.studios\MutableString\MutableString\bin\Debug\MutableString.pdb
+c:\users\fountain\documents\DEV\visual.studios\MutableString\MutableString\obj\Debug\MutableString.exe
+c:\users\fountain\documents\DEV\visual.studios\MutableString\MutableString\obj\Debug\MutableString.pdb
+c:\users\fountain\documents\DEV\visual.studios\MutableString\MutableString\obj\Debug\MutableString.csprojResolveAssemblyReference.cache
